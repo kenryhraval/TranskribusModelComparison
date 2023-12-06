@@ -1,5 +1,5 @@
 # TranskribusModelComparison
-Faili zinātniski pētnieciskā darba praktiskajai daļai par esošo HTR Transkribus modeļu izmantošanu Latvijas arhīvā esošo vēsturisko dokumentu teksta satura digitalizācijai.
+Faili zinātniski pētnieciskā darba praktiskajai daļai par Transkribus vietnē esošo HTR Transkribus modeļu izmantošanu Latvijas arhīvā esošo vēsturisko dokumentu teksta satura digitalizācijai.
 
 - Mape ierakstu_attēli satur 100 atlasītos baznīcu grāmatu ierakstus atlase no LNA tiešsaistes vietnes. Atlasīti Džūkstes latviešu ev. lut. draudzes kristību ieraksti vācu valodā par laika periodu no 1835. līdz 1880. gadam. No katra piektā gada izvēlēti pirmie 10 ieraksti. Katram ierakstam tika veikts ekrānuzņēmums, saglabāts ar nosaukumu, kas atbilst tā numuram.
 
